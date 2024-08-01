@@ -1,0 +1,15 @@
+# This is a YAML file example
+
+greeting:
+  message: "Hello, World!"
+  language: "English"
+  details:
+    - type: "Standard"
+    - time_of_day: "Anytime"
+
+metadata:
+  version: 1.0
+  author: "ChatGPT"
+  date_created: "2024-08-01"
+
+# Comments in YAML start with a '#'
